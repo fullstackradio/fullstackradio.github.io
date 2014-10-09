@@ -3,7 +3,7 @@
     <title><![CDATA[Full Stack Radio]]></title>
     <link href="/atom.xml" rel="self"/>
     <link href="/"/>
-    <updated>2014-10-09T19:26:54-04:00</updated>
+    <updated>2014-10-09T19:36:43-04:00</updated>
     <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
@@ -11,7 +11,7 @@
             <link href="/episodes/1"/>
             <updated>2014-10-21T00:00:00-04:00</updated>
             <id>/episodes/1</id>
-            <content type="html"><![CDATA[<p>In our very first episode, Adam talks with <a href="#">Matt Stauffer</a> of <a href="http://tighten.co">Tighten Co</a> about OOCSS, BEM, SMACSS, preprocessors, common CSS pitfalls, and how stylesheets are the worst.</p>
+            <content type="html"><![CDATA[<p>In our very first episode, Adam talks with <a href="http://twitter.com/stauffermatt">Matt Stauffer</a> of <a href="http://tighten.co">Tighten Co</a> about OOCSS, BEM, SMACSS, preprocessors, common CSS pitfalls, and how stylesheets are the worst.</p>
 ]]></content>
         </entry>
     </feed>
