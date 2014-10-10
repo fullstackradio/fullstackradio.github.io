@@ -1326,6 +1326,7 @@ td.visible-print,th.visible-print{display:table-cell!important}}
 @media print{.visible-print-inline{display:inline!important}}
 @media print{.visible-print-inline-block{display:inline-block!important}}
 @media print{.hidden-print{display:none!important}}
+.u-textSubtle{color:#a6a6a6}
 .container-fluid{max-width:970px}
 .siteHeader{margin-bottom:2em}
 .siteDescription{margin-bottom:3em}
