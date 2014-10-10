@@ -1328,8 +1328,8 @@ td.visible-print,th.visible-print{display:table-cell!important}}
 @media print{.hidden-print{display:none!important}}
 .u-textSubtle{color:#a6a6a6}
 .container-fluid{max-width:970px}
-.siteHeader{margin-bottom:2em}
-.siteDescription{margin-bottom:3em}
+.sidebar-section,.siteHeader{margin-bottom:2em}
+.sidebar{margin-bottom:3em}
 .siteFooter{padding-top:2em;padding-bottom:2em}
 .pageHeading{margin-top:0;font-size:18px}
 .link--secondary,.link--secondary:hover{color:#333}
