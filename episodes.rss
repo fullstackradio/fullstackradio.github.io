@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+    <atom:link href="/episodes.rss" rel="self" type="application/rss+xml"/>
+    <title>Full Stack Radio</title>
+    <link>http://fullstackradio.com</link>
+    <language>en-GB</language>
+    <copyright>2014 Adam Wathan</copyright>
+    <itunes:subtitle>Full Stack Radio is a podcast for developers interested in building great software products.</itunes:subtitle>
+    <itunes:author>Adam Wathan</itunes:author>
+    <itunes:keywords>development,software,entrepreneurship,web</itunes:keywords>
+    <itunes:category text="Technology">
+        <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:summary>
+    </itunes:summary>
+    <description>
+    </description>
+    <itunes:owner>
+        <itunes:name>Adam Wathan</itunes:name>
+        <itunes:email>adam.wathan@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://fullstackradio.github.io/img/podcast-cover.jpg"/>
+        <item>
+        <title>Episode 1: CSS Semantics with Matt Stauffer</title>
+        <itunes:author>Adam Wathan</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:summary>
+            <![CDATA[In our very first episode, Adam talks with Matt Stauffer of Tighten Co about OOCSS, BEM, SMACSS, preprocessors, common architecture pitfalls, and CSS semantics.]]>
+        </itunes:summary>
+        <itunes:image href="http://fullstackradio.github.io/img/podcast-cover.jpg"/>
+        <enclosure url="http://traffic.libsyn.com/fullstackradio/1.mp3" length="" type="audio/mp3"/>
+        <guid>http://traffic.libsyn.com/fullstackradio/1.mp3</guid>
+        <pubDate>Tue, 21 Oct 2014 04:00:00 +0000</pubDate>
+        <itunes:duration>0:48:40</itunes:duration>
+    </item>
+    </channel>
+</rss>
