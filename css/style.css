@@ -1326,9 +1326,14 @@ td.visible-print,th.visible-print{display:table-cell!important}}
 @media print{.visible-print-inline{display:inline!important}}
 @media print{.visible-print-inline-block{display:inline-block!important}}
 @media print{.hidden-print{display:none!important}}
+body{border-top:10px solid #3fb1b1}
+.podcastLogo{max-width:100%}
 .u-textSubtle{color:#a6a6a6}
 .container-fluid{max-width:970px}
-.sidebar-section,.siteHeader{margin-bottom:2em}
+.siteContent{margin-top:20px}
+.siteHeader{margin-bottom:2em}
+.siteHeader-title{margin-top:0}
+.sidebar-section{margin-bottom:2em}
 .sidebar{margin-bottom:3em}
 .siteFooter{padding-top:2em;padding-bottom:2em}
 .pageHeading{margin-top:0;font-size:18px}
