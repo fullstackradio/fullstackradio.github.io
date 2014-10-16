@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-    <atom:link href="/itunes.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://fullstackradio.com/itunes.rss" rel="self" type="application/rss+xml"/>
     <title>Full Stack Radio</title>
     <link>http://fullstackradio.com</link>
     <language>en-GB</language>
