@@ -1327,7 +1327,7 @@ td.visible-print,th.visible-print{display:table-cell!important}}
 @media print{.visible-print-inline-block{display:inline-block!important}}
 @media print{.hidden-print{display:none!important}}
 body{border-top:10px solid #3fb1b1}
-.podcastLogo{max-width:100%}
+.img-fit,.podcastLogo{max-width:100%}
 .u-textSubtle{color:#a6a6a6}
 .u-textLarge{font-size:16px}
 .u-mediumBold{font-weight:600}
